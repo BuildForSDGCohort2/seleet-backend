@@ -1,0 +1,1 @@
+web: gunicorn seleet.wsgi --log-file -
